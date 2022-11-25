@@ -1,0 +1,11 @@
+﻿  HW003.cpp
+C:\Users\최하늘\Desktop\HW003\HW003\ArrayStack.h(21,1): error C2664: 'void error(char *)': 인수 1을(를) 'const char [15]'에서 'char *'(으)로 변환할 수 없습니다.
+C:\Users\최하늘\Desktop\HW003\HW003\ArrayStack.h(21,24): message : 문자열 리터럴로부터의 변환은 const 한정자가 손실됩니다(/Zc:strictStrings 참조).
+C:\Users\최하늘\Desktop\HW003\HW003\ArrayStack.h(5,13): message : 'error' 선언을 참조하십시오.
+C:\Users\최하늘\Desktop\HW003\HW003\ArrayStack.h(26,1): error C2664: 'void error(char *)': 인수 1을(를) 'const char [15]'에서 'char *'(으)로 변환할 수 없습니다.
+C:\Users\최하늘\Desktop\HW003\HW003\ArrayStack.h(26,25): message : 문자열 리터럴로부터의 변환은 const 한정자가 손실됩니다(/Zc:strictStrings 참조).
+C:\Users\최하늘\Desktop\HW003\HW003\ArrayStack.h(5,13): message : 'error' 선언을 참조하십시오.
+C:\Users\최하늘\Desktop\HW003\HW003\ArrayStack.h(30,1): error C2664: 'void error(char *)': 인수 1을(를) 'const char [15]'에서 'char *'(으)로 변환할 수 없습니다.
+C:\Users\최하늘\Desktop\HW003\HW003\ArrayStack.h(30,24): message : 문자열 리터럴로부터의 변환은 const 한정자가 손실됩니다(/Zc:strictStrings 참조).
+C:\Users\최하늘\Desktop\HW003\HW003\ArrayStack.h(5,13): message : 'error' 선언을 참조하십시오.
+C:\Users\최하늘\Desktop\HW003\HW003\HW003.cpp(11,1): warning C4326: 'main'의 반환 형식이 'int'이어야 하는데 'void'입니다.
